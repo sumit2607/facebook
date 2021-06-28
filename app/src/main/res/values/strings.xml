@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">facebook</string>
+    <string name="Enter_email">Enter email</string>
+    <string name="Enter_password">Enter Password</string>
+    <string name="button">Login</string>
+    <string name="textview">Sign Up For facebook</string>
+    <string name="forget_password">Forget Password</string>
+</resources>
